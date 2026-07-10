@@ -1,0 +1,10 @@
+{
+    "model": "Agent 2 - GPT-2 + LoRA",
+    "accuracy": 0.658617567159674,
+    "precision": 0.6545232292877181,
+    "recall": 0.658617567159674,
+    "f1": 0.6317856011119074,
+    "inference_time": 0.8389940960005333,
+    "evaluated_samples_accuracy": 3313,
+    "evaluated_samples_inference": 100
+}

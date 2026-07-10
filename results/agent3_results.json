@@ -1,0 +1,10 @@
+{
+    "model": "Agent 3 - DistilBERT",
+    "accuracy": 0.721702384545729,
+    "precision": 0.7219879328671406,
+    "recall": 0.721702384545729,
+    "f1": 0.7007327604269625,
+    "inference_time": 0.2247247490004156,
+    "evaluated_samples_accuracy": 3313,
+    "evaluated_samples_inference": 100
+}

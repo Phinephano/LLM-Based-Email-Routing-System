@@ -1,0 +1,10 @@
+{
+    "model": "Agent 1 - GPT-2 Prompting",
+    "accuracy": 0.565,
+    "precision": 0.415613950498232,
+    "recall": 0.565,
+    "f1": 0.4564678501840225,
+    "inference_time": 4.992428023000684,
+    "evaluated_samples_accuracy": 200,
+    "evaluated_samples_inference": 50
+}
