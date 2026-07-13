@@ -1,0 +1,21 @@
+name: email-routing
+channels:
+  - conda-forge
+  - defaults
+
+dependencies:
+  - python=3.11
+  - pip
+  - pip:
+      - torch
+      - transformers
+      - datasets
+      - peft
+      - accelerate
+      - evaluate
+      - scikit-learn
+      - pandas
+      - numpy
+      - matplotlib
+      - seaborn
+      - jupyter
